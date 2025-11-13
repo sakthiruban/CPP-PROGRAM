@@ -1,6 +1,4 @@
 /*------------------------------------------------------------------------------------------------- 
- *   Author         : Emertxe (https://emertxe.com) 
- *   Date           : Wed 08 Mar 2016 16:00:04 IST
  *   File           : 001_example.cpp
  *   Title          : First OOP Code
  *   Description    : First Object Oriented Programming code with c++, which will explain how to
